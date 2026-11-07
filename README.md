@@ -6,7 +6,7 @@ From Rs.1 Paddy (1967) to Rs.2500 Women Aid (2026) - 70 Years of Tamil Nadu Prom
 - Tracked Freebie Evolution: Rs.1 Rice to Rs.2500 Aid
 - 2026 Manifesto Comparison - TVK Vijay Entry
 
-Tools Used
+Tools Used:
 Power BI | Excel | Data Analysis
 
 Dataset
